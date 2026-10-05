@@ -1,0 +1,9 @@
+{
+  "name": "Cinder & Steam Artisanal Roastery",
+  "description": "Specialty coffee roastery and cafe featuring handcrafted single-origin brews, custom drink creator, live barista tracking, and reservation experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
